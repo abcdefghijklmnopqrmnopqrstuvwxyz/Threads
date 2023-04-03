@@ -1,0 +1,15 @@
+M:\C#\Vlakna\TestVlakna\bin\Debug\net6.0\TestVlakna.exe
+M:\C#\Vlakna\TestVlakna\bin\Debug\net6.0\TestVlakna.deps.json
+M:\C#\Vlakna\TestVlakna\bin\Debug\net6.0\TestVlakna.runtimeconfig.json
+M:\C#\Vlakna\TestVlakna\bin\Debug\net6.0\TestVlakna.dll
+M:\C#\Vlakna\TestVlakna\bin\Debug\net6.0\TestVlakna.pdb
+M:\C#\Vlakna\TestVlakna\obj\Debug\net6.0\TestVlakna.csproj.AssemblyReference.cache
+M:\C#\Vlakna\TestVlakna\obj\Debug\net6.0\TestVlakna.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\Vlakna\TestVlakna\obj\Debug\net6.0\TestVlakna.AssemblyInfoInputs.cache
+M:\C#\Vlakna\TestVlakna\obj\Debug\net6.0\TestVlakna.AssemblyInfo.cs
+M:\C#\Vlakna\TestVlakna\obj\Debug\net6.0\TestVlakna.csproj.CoreCompileInputs.cache
+M:\C#\Vlakna\TestVlakna\obj\Debug\net6.0\TestVlakna.dll
+M:\C#\Vlakna\TestVlakna\obj\Debug\net6.0\refint\TestVlakna.dll
+M:\C#\Vlakna\TestVlakna\obj\Debug\net6.0\TestVlakna.pdb
+M:\C#\Vlakna\TestVlakna\obj\Debug\net6.0\TestVlakna.genruntimeconfig.cache
+M:\C#\Vlakna\TestVlakna\obj\Debug\net6.0\ref\TestVlakna.dll
